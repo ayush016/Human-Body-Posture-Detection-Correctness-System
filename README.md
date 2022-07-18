@@ -1,5 +1,7 @@
 # Human-Body-Posture-Detection-Correctness-System
 
+Burn the ino file in nodemcu <br><br><br>
+
 Goals:<br><br><br>
 Give discreet ongoing dynamic feedback and furthermore information like daily report
 chart, on an individual gadget like his/her cell phone as well in his/her email with respect
